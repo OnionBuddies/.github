@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>OnionBuddies</b><br/>
-  An open source community building plugins and tools for OnionHEN on PlayStation 5
+  An open source organization building plugins and tools for OnionHEN on PlayStation 5
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Build-CMake-064F8C?style=flat&logo=cmake" alt="CMake"/>
 </p>
 
-OnionBuddies is a community of developers building open source plugins and
+OnionBuddies is an open source organization building plugins and
 tooling around **OnionHEN**, a homebrew environment for PlayStation 5. We
 focus on keeping things small, modular, and easy to build with — so anyone
 can write and share their own plugin.
